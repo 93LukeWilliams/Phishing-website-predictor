@@ -9,7 +9,7 @@ A machine learning Streamlit application for classifying websites as phishing or
 - `requirements.txt` – project dependencies
 
 ## Live App
-Streamlit Community Cloud link: https://phishing-website-predictor-lgukwi5vrr6ruy2ybblgg5.streamlit.app/
+Streamlit Community Cloud link: https://phishing-website-predictor-8kxyerywrtcrbxgy5zott6.streamlit.app/
 
 ## Dataset
 Phishing Websites Data (Kaggle)
